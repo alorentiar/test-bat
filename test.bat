@@ -1,2 +1,2 @@
 @echo off
-echo testing!
+start "" cmd /c "echo Testing cmd pop up!&echo(&pause"
